@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.0f45d83e.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.92488c34.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.92488c34.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.8fdcdd61.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.8fdcdd61.js.map",
+    "static/js/2.1e478c60.chunk.js": "/portfolio-react/static/js/2.1e478c60.chunk.js",
+    "static/js/2.1e478c60.chunk.js.map": "/portfolio-react/static/js/2.1e478c60.chunk.js.map",
+    "static/js/3.9bc3c20c.chunk.js": "/portfolio-react/static/js/3.9bc3c20c.chunk.js",
+    "static/js/3.9bc3c20c.chunk.js.map": "/portfolio-react/static/js/3.9bc3c20c.chunk.js.map",
+    "index.html": "/portfolio-react/index.html",
+    "static/css/main.0f45d83e.chunk.css.map": "/portfolio-react/static/css/main.0f45d83e.chunk.css.map",
+    "static/js/2.1e478c60.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.1e478c60.chunk.js.LICENSE.txt",
+    "static/media/Base.css": "/portfolio-react/static/media/bg.68c59def.jpg",
+    "static/media/my.0c57eedd.jpg": "/portfolio-react/static/media/my.0c57eedd.jpg",
+    "static/media/pexels-bruno-scramgnon-5007442.32d281fc.jpg": "/portfolio-react/static/media/pexels-bruno-scramgnon-5007442.32d281fc.jpg",
+    "static/media/pexels-dapo-abideen-3535630.2aff9eae.jpg": "/portfolio-react/static/media/pexels-dapo-abideen-3535630.2aff9eae.jpg",
+    "static/media/pexels-jonathan-borba-3727771.6dbf1cd9.jpg": "/portfolio-react/static/media/pexels-jonathan-borba-3727771.6dbf1cd9.jpg",
+    "static/media/pexels-maria-eduarda-loura-magalhães-tavares-4340053.f1639c4e.jpg": "/portfolio-react/static/media/pexels-maria-eduarda-loura-magalhães-tavares-4340053.f1639c4e.jpg",
+    "static/media/pexels-marko-blazevic-1327405.942e34e7.jpg": "/portfolio-react/static/media/pexels-marko-blazevic-1327405.942e34e7.jpg",
+    "static/media/pexels-yo-choowa-4594134.056f2ed8.jpg": "/portfolio-react/static/media/pexels-yo-choowa-4594134.056f2ed8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fdcdd61.js",
+    "static/js/2.1e478c60.chunk.js",
+    "static/css/main.0f45d83e.chunk.css",
+    "static/js/main.92488c34.chunk.js"
+  ]
+}
